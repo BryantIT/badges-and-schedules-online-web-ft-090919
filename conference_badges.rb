@@ -12,5 +12,6 @@ end
 
 def assign_rooms(attendees)
   rooms = []
+  counter = 1
   attendees.each do ||
 end
