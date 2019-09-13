@@ -22,4 +22,10 @@ end
 
 def printer(array)
   batch_badge_creator.each do |final|
-    
+    puts final
+  end
+  
+  assign_rooms.each do |final|
+    puts final
+  end
+end
