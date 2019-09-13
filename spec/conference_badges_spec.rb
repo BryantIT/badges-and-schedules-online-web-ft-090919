@@ -1,4 +1,4 @@
--0][-''''''''''''''''''''require 'spec_helper'
+require 'spec_helper'
 
 describe 'conference_badges' do
 
